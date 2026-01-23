@@ -200,6 +200,7 @@ body {
   background: url("./Images/PNG/favicon.png") no-repeat center/100%;
   opacity: 0;
   transition: 0.7s;
+  display: none;
 }
 .link_to_archviz:hover {
   transform: scale(1.1);
